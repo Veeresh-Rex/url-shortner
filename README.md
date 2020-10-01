@@ -1,5 +1,6 @@
 # url-shortner
 A url-shortner app.
+Free of cost and no extra advertisements get the URL shortened in few easy steps.
 
 Created using React js, mongoDB ,Express js
 ### Screenshots
